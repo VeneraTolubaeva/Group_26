@@ -1,8 +1,7 @@
-id
-[D[ABug report id: Project-001
+Bug report id: Project-001
 Summary: "What? Where? When?"
 Priority: "Trivial", "Minor", "Major", "Critical", "Blocer"
-Severity: "Trivial", "Minor", "Major", "Critical", "Blocer"
+Severity: "Trivial", "Minor", "Major", "Critical", "Blocer"
 Sprint: sprint number
 Fix version: version numbet
 Environment: Dev, QA, Pre-Prod, Prod
