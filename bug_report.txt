@@ -1,0 +1,17 @@
+id
+[D[ABug report id: Project-001
+Summary: "What? Where? When?"
+Priority: "Trivial", "Minor", "Major", "Critical", "Blocer"
+Severity: "Trivial", "Minor", "Major", "Critical", "Blocer"
+Sprint: sprint number
+Fix version: version numbet
+Environment: Dev, QA, Pre-Prod, Prod
+Orerequisites:
+Steps to reproduce:
+1.
+2.
+3.
+Expected result:
+Actual result:
+Note:
+Attachments: screenchot, video, logs
