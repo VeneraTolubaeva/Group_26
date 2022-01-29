@@ -1,5 +1,4 @@
 Name: section to be checked
 Name of the check: a brief description of the essence of the check
 Expected Result
-Actual result
 Status: Passed, Failed, Skipped
